@@ -2,7 +2,7 @@
 
 App de podcast integrada con la API de AudioBoom para aprender Next.Js
 
-![Captura de la app](./.readme-static/captura.png =250x)
+![Captura de la app](./.readme-static/captura.png)
 
 [Ver la aplicación](https://podcast.georgerangelcode.now.sh/)
 
